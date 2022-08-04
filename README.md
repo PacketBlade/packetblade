@@ -5,7 +5,8 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 # Packet Blade
 
-Template repository
+The main repository for the Packet Blade project. This repo contains all
+of the hardware design files for the project.
 
 ## Licence
 This repo uses the [REUSE](https://reuse.software) standard in order to
